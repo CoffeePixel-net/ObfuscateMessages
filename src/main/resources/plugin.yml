@@ -1,0 +1,12 @@
+name: ObfuscateMessages
+version: '1.1'
+main: me.cheese.obfusdeath.ObfuscateDeathMessages
+api-version: '1.21'
+prefix: DiscoSMP Ban Netherite
+authors: [ outerspacepugyt ]
+description: No Netherite
+website: coffeepixel.net
+permissions:
+  obfusdeath.bypass:
+    description: Prevents your name from being obfuscated in death messages.
+    default: false

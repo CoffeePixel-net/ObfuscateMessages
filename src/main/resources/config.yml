@@ -1,0 +1,15 @@
+# =====================================
+# ObfuscateDeathMessages Configuration
+# =====================================
+
+# The text that replaces the killer's name when they are invisible.
+# Placeholders:
+#  %name%  = original attacker name
+#
+# Examples:
+#  "&k????&r"
+#  "&7Unknown Entity"
+#  "&cHidden"
+#  "&5??? &d(%name%)"
+#
+obfuscation-format: "&k????&r"
